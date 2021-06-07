@@ -33,16 +33,15 @@
 * we can route with each services based on requested url.
 
 ### user-service
-* we can get all users and user by id.
-* run loadData.ts to load users
-* go to inside user-service and start server(npm run start:dev)
-
-### log-service
-* we can get all logs and log by id.
-* we also can connect with notification-service from here and send notification.
-* go to inside log-service and start server(npm run start:dev)
+* we can add, get all users and user by id.
+* we also can connect with log-service from here and add user activity.
+* go to inside user and start server(npm start)
 
 ### chat-service
-* we can send notification.
-* go to inside notification-service and start server(npm run start:dev)
+* we can add, get all chats and chat by id.
+* go to inside char and start server(npm start)
+
+### log-service
+* we can add, get all logs and log by id.
+* go to inside log and start server(npm start)
 
