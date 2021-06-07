@@ -1,14 +1,9 @@
 # log-service
 
 ## Description
-* we can get all logs and log by id.
-* we also can connect with notification-service from here and send notification.
+* we can add, get all logs and log by id.
 
 ## Quick Start
-* cd microservice-nest-tcp/log-service
+* cd node-express-microservice/log
 * npm install
-* npm run start:dev
-
-
-## Run Test
-* npm run test:e2e
+* npm start

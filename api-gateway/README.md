@@ -5,10 +5,6 @@
 * we can route with each services based on requested url.
 
 ## Quick Start
-* cd microservice-nest-tcp/api-gateway
+* cd node-express-microservice/api-gateway
 * npm install
-* npm run start:dev
-
-
-## Run Test
-* npm run test:e2e
+* npm start
