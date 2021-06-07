@@ -2,6 +2,7 @@
 
 ## Description
 * We have three micro services to communicate with api gateway, they also can communicate each othre internelly.
+* We are connecting each services using axios library.
 
 ## Technology
 - [x] Node

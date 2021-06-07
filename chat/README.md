@@ -1,9 +1,9 @@
-# log-service
+# chat-service
 
 ## Description
-* we can add, get all logs and log by id.
+* we can add, get all chats and log by id.
 
 ## Quick Start
-* cd node-express-microservice/log
+* cd node-express-microservice/chat
 * npm install
 * npm start
